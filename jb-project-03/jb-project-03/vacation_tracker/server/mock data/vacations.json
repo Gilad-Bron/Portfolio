@@ -1,0 +1,122 @@
+[
+  {
+    "destination": "Paris, France",
+    "description": "Experience the City of Lights with its iconic Eiffel Tower, Louvre Museum, and charming cafes. Stroll along the Seine River, explore the Notre Dame Cathedral, and indulge in delicious French cuisine. This romantic getaway is perfect for couples and art enthusiasts.",
+    "start_date": "2025-06-15",
+    "end_date": "2025-06-22",
+    "price": 2500,
+    "route_to_image_file": "images/paris.jpg"
+  },
+  {
+    "destination": "Kyoto, Japan",
+    "description": "Immerse yourself in the ancient culture of Japan in Kyoto. Visit the Fushimi Inari Shrine with its thousands of red gates, explore the Kinkaku-ji Temple (Golden Pavilion), and wander through the Arashiyama Bamboo Forest. Experience a traditional tea ceremony and witness the beauty of geisha districts.",
+    "start_date": "2025-09-10",
+    "end_date": "2025-09-17",
+    "price": 3200,
+    "route_to_image_file": "images/kyoto.jpg"
+  },
+  {
+    "destination": "Marrakech, Morocco",
+    "description": "Explore the vibrant souks of Marrakech, with their colorful spices, textiles, and handicrafts. Get lost in the maze-like alleys of the medina, visit the Bahia Palace and the Koutoubia Mosque, and experience the energy of Djemaa el-Fna square.",
+    "start_date": "2025-10-05",
+    "end_date": "2025-10-12",
+    "price": 1800,
+    "route_to_image_file": "images/marrakech.jpg"
+  },
+  {
+    "destination": "Machu Picchu, Peru",
+    "description": "Hike the Inca Trail to the lost city of Machu Picchu, a UNESCO World Heritage site nestled in the Andes Mountains. Explore the ancient ruins, marvel at the breathtaking views, and learn about the fascinating Inca civilization.",
+    "start_date": "2025-11-20",
+    "end_date": "2025-11-27",
+    "price": 4000,
+    "route_to_image_file": "images/machu_picchu.jpg"
+  },
+  {
+    "destination": "Santorini, Greece",
+    "description": "Relax on the stunning beaches of Santorini, with its iconic blue-domed churches and whitewashed houses. Watch the sunset over the Aegean Sea, explore the volcanic caldera, and indulge in delicious Greek cuisine and wine.",
+    "start_date": "2025-07-02",
+    "end_date": "2025-07-09",
+    "price": 2700,
+    "route_to_image_file": "images/santorini.jpg"
+  },
+  {
+    "destination": "Yellowstone National Park, USA",
+    "description": "Witness the geothermal wonders of Yellowstone National Park, with its geysers, hot springs, and mudpots. See the iconic Old Faithful erupt, hike through the Grand Canyon of the Yellowstone, and spot wildlife such as bison, elk, and wolves.",
+    "start_date": "2025-08-18",
+    "end_date": "2025-08-25",
+    "price": 2200,
+    "route_to_image_file": "images/yellowstone.jpg"
+  },
+  {
+    "destination": "Sydney, Australia",
+    "description": "Explore the vibrant city of Sydney, with its iconic Opera House and Harbour Bridge. Climb the bridge for panoramic views, relax on Bondi Beach, and visit the Taronga Zoo. Experience the unique Australian culture and enjoy the outdoor lifestyle.",
+    "start_date": "2026-01-05",
+    "end_date": "2026-01-12",
+    "price": 3500,
+    "route_to_image_file": "images/sydney.jpg"
+  },
+  {
+    "destination": "Rio de Janeiro, Brazil",
+    "description": "Dance the samba in Rio de Janeiro, with its famous Copacabana and Ipanema beaches. Visit the Christ the Redeemer statue, ride a cable car to Sugarloaf Mountain, and experience the vibrant nightlife and Carnival celebrations.",
+    "start_date": "2025-02-14",
+    "end_date": "2025-02-21",
+    "price": 2800,
+    "route_to_image_file": "images/rio.jpg"
+  },
+  {
+    "destination": "Bangkok, Thailand",
+    "description": "Explore the bustling city of Bangkok, with its ornate temples, floating markets, and delicious street food. Visit the Grand Palace and Wat Pho, take a boat trip on the Chao Phraya River, and experience the vibrant nightlife.",
+    "start_date": "2025-03-10",
+    "end_date": "2025-03-17",
+    "price": 1600,
+    "route_to_image_file": "images/bangkok.jpg"
+  },
+  {
+    "destination": "Amsterdam, Netherlands",
+    "description": "Cycle through the charming canals of Amsterdam, visit the Anne Frank House, and explore the Rijksmuseum. Enjoy the coffee shops and unique culture, and take a boat trip on the canals to see the city from a different perspective.",
+    "start_date": "2025-04-22",
+    "end_date": "2025-04-29",
+    "price": 2100,
+    "route_to_image_file": "images/amsterdam.jpg"
+  },
+  {
+    "destination": "Istanbul, Turkey",
+    "description": "Discover the historical city of Istanbul, where East meets West. Visit the Hagia Sophia and the Blue Mosque, explore the Topkapi Palace, and wander through the Grand Bazaar and Spice Market. Experience the Turkish culture and enjoy the delicious cuisine.",
+    "start_date": "2025-05-15",
+    "end_date": "2025-05-22",
+    "price": 1900,
+    "route_to_image_file": "images/istanbul.jpg"
+  },
+  {
+    "destination": "Banff National Park, Canada",
+    "description": "Explore the stunning scenery of Banff National Park, with its turquoise lakes, snow-capped mountains, and glaciers. Hike to Johnston Canyon and Moraine Lake, take a gondola ride up Sulphur Mountain, and spot wildlife such as bears, elk, and moose.",
+    "start_date": "2025-12-20",
+    "end_date": "2025-12-27",
+    "price": 2900,
+    "route_to_image_file": "images/banff.jpg"
+  },
+  {
+    "destination": "Dubai, United Arab Emirates",
+    "description": "Experience the luxury and extravagance of Dubai, with its towering skyscrapers, world-class shopping, and stunning beaches. Visit the Burj Khalifa, the tallest building in the world, ski indoors at Ski Dubai, and enjoy the vibrant nightlife.",
+    "start_date": "2026-02-10",
+    "end_date": "2026-02-17",
+    "price": 3100,
+    "route_to_image_file": "images/dubai.jpg"
+  },
+  {
+    "destination": "Queenstown, New Zealand",
+    "description": "Get your adrenaline pumping in Queenstown, the adventure capital of the world. Go bungy jumping, white-water rafting, and skiing. Explore the stunning scenery of Milford Sound and take a scenic flight over the Southern Alps.",
+    "start_date": "2026-03-05",
+    "end_date": "2026-03-12",
+    "price": 3800,
+    "route_to_image_file": "images/queenstown.jpg"
+  },
+  {
+    "destination": "Serengeti National Park, Tanzania",
+    "description": "Witness the Great Migration in Serengeti National Park, where millions of wildebeest, zebras, and gazelles roam the plains. Go on a safari to see lions, elephants, giraffes, and other wildlife in their natural habitat. Experience the beauty and diversity of the African savanna.",
+    "start_date": "2026-04-18",
+    "end_date": "2026-04-25",
+    "price": 4200,
+    "route_to_image_file": "images/serengeti.jpg"
+  }
+]
